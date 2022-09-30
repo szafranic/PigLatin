@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Text.RegularExpressions;
+
+internal class Program
 {
 	public static void Main(string[] args)
 	{
@@ -8,11 +10,17 @@
 			string input = Console.ReadLine().ToLower();
 
 			string[] words = input.Split();
-			string endhalf = "noend";
-			string firsthalf = "nofirst";
+			string endhalf = "";
+			string firsthalf = "";
 
 			foreach (string word in words)
 			{
+				Regex r = new Regex("^[a-zA-Z]+$");
+				if (r.IsMatch(word) != true)
+				{
+					Console.Write(word+" ");
+					continue;
+				}
 				for (int i = 0; word.Length > i; i++)
 				{
 					string current = (word[i].ToString());
