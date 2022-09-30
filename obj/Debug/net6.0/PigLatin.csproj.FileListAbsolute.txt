@@ -1,0 +1,15 @@
+C:\Users\stormy\Git\school projects\PigLatin\bin\Debug\net6.0\PigLatin.exe
+C:\Users\stormy\Git\school projects\PigLatin\bin\Debug\net6.0\PigLatin.deps.json
+C:\Users\stormy\Git\school projects\PigLatin\bin\Debug\net6.0\PigLatin.runtimeconfig.json
+C:\Users\stormy\Git\school projects\PigLatin\bin\Debug\net6.0\PigLatin.dll
+C:\Users\stormy\Git\school projects\PigLatin\bin\Debug\net6.0\PigLatin.pdb
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.csproj.AssemblyReference.cache
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfoInputs.cache
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfo.cs
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.dll
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\refint\PigLatin.dll
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.pdb
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\PigLatin.genruntimeconfig.cache
+C:\Users\stormy\Git\school projects\PigLatin\obj\Debug\net6.0\ref\PigLatin.dll
